@@ -1,0 +1,2 @@
+# Regularizaci-n_de_redes_neuronales_artificiales_para_la_clasificacion_de_imagenes_de_retinopatia
+Regularización de redes neuronales artificiales para la clasificación de imágenes de retinopatía diabética
